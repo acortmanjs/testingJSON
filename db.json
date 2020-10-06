@@ -1,0 +1,30 @@
+[
+  {
+    "Nombre": "Juan",
+    "Apellidos": "Feliciano",
+    "Teléfono": 647189402,
+    "Mail": "mail.juan@empresite.com",
+    "Fotografía": "https://drive.google.com/file/d/1XHNKGChf5jek3lNKLcr1syjtfMUvhsFJ/view?usp=sharing"
+  },
+  {
+    "Nombre": "Pedro",
+    "Apellidos": "Flores",
+    "Teléfono": 234567134,
+    "Mail": "mail.pedro@empresite.com",
+    "Fotografía": "https://drive.google.com/file/d/1XMBEUxGRPzpfukgp6k2yA3FNiO5jNYcs/view?usp=sharing"
+  },
+  {
+    "Nombre": "Luis",
+    "Apellidos": "Enriquez",
+    "Teléfono": 937481094,
+    "Mail": "mail.luis@empresite.com",
+    "Fotografía": "https://drive.google.com/file/d/1XPkEFqkTTrCpaRUGo_yduBIX-Ouc3kCI/view?usp=sharing"
+  },
+  {
+    "Nombre": "Salvador",
+    "Apellidos": "Gómez",
+    "Teléfono": 387401984,
+    "Mail": "mail.salvador@empresite.com",
+    "Fotografía": "https://drive.google.com/file/d/1XFSDoqgR2Ndz17dyKWav7dMGlBhvaXto/view?usp=sharing"
+  }
+]
